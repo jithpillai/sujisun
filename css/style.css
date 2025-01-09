@@ -9762,3 +9762,17 @@ a.text-dark:hover, a.text-dark:focus {
     border-right: none !important;
   }
 }
+#invitation {
+  position: relative;
+  height: 660px;
+  width: 100%;
+  overflow: hidden;
+}
+#videobcg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 640px;
+  width: 100%;
+  z-index: 1;
+}
